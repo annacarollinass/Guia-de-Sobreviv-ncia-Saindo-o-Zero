@@ -1,5 +1,6 @@
 # Guia-de-Sobrevivencia-Saindo-o-Zero
-Este guia foca em quem precisa organizar a vida financeira antes de pensar em investir.
+Contexto e Objetivo: 
+Este guia foca no planejamento conjunto, onde todos os membros que vivem na mesma casa unem desejos e necessidades para manter a saúde financeira do grupo. Focado em ajudar na definição de prioridades, 
 Curadoria de Fontes:
 https://investirbem.prevpepsico.com.br/publicacoes/familia-unida-como-criar-bons-habitos-financeiros
 https://www.spcbrasil.com.br/blog/organizacao-financeira 
