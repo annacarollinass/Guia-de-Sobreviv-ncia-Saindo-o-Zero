@@ -1,4 +1,4 @@
-# Guia-de-Sobrevivencia-Saindo-o-Zero
+# Guia-de-Sobrevivencia-Saindo-do-Zero
 Contexto e Objetivo: 
 Este guia foca no planejamento conjunto, onde todos os membros que vivem na mesma casa unem desejos e necessidades para manter a saúde financeira do grupo. Focado em ajudar na definição de prioridades, 
 Curadoria de Fontes:
