@@ -1,4 +1,4 @@
-# 💰 Guia-Saindo-do-Zero
+# 💰 Guia Saindo do Zero
 
 **🧠 Link do Meu Notebook no NotebookLM**
 
@@ -10,7 +10,7 @@ https://notebooklm.google.com/notebook/c898977c-9c10-4588-9d61-3b106088a547
 
 Projeto desenvolvido no **Bootcamp GenAI & Dados - DIO + Bradesco**. 
 
-Este guia foca no planejamento conjunto, onde todos os membros que vivem na mesma casa têm desejos e necessidades para manter a saúde financeira do grupo. Focado em ajudar na definição de prioridades, facilitar a conquista de metas comuns, como quitar dívidas, fazer viagens de férias, reformar a casa ou montar uma reserva de emergência e cultivar comportamentos financeiros saudáveis em adultos, adolescentes e crianças.
+Este caderno de estudos foca no planejamento conjunto, onde todos os membros que vivem na mesma casa têm desejos e necessidades para manter a saúde financeira do grupo. Focado em ajudar na definição de prioridades, facilitar a conquista de metas comuns, como quitar dívidas, fazer viagens de férias, reformar a casa ou montar uma reserva de emergência e cultivar comportamentos financeiros saudáveis em adultos, adolescentes e crianças.
 
 ---
 
